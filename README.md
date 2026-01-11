@@ -53,7 +53,7 @@ Projects range from small experiments to end-to-end pipelines using production-s
 
 *Each project will be in its own Repo.*
 
-## [Banking Transaction Pipeline](https://git.camcodes.dev/Cameron/Banking_Data_Pipeline)
+## [Banking Transaction Pipeline](https://github.com/CameronCSS/Banking_Data_Pipeline)
 - Spark-based ETL pipeline
 - Bronze → Silver → Gold lakehouse design
 - Data quality enforcement and validation
